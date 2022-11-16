@@ -1,0 +1,14 @@
+1.There is a coorelation between average scores/passing percentages and spending. The higher spending budget per student the lower the scores throughout.
+
+
+The Spending Ranges dataframe shows a minor decrease in aver ascores as the budget increases per students. More importantly, the percentage of students drops significantly as the budget increases. For example, the overall percentage of passing students drops from 90% at less than $585 spending limit per student to 53% when the spending limit reaches between $645-680.
+
+From the differences between the averages and the percentages of passing students, there is a larger discrepanscy in scores where budgets are higher.
+
+2.Chater schools show better testing scores and higher amount of passing students than District students
+
+
+Charter schools seem to show better testing scores in all both math a reading. There is a larger difference especial in the percentages of students passing between Charter and District schools. There is a 27 percentage difference between passing Math students between Charter students(93%) and District students(66%) and a 16 percentage difference between passing Reading students between Charter students(96%) and District students(80%). Only over half of Disitrict students are passing Math and Reading.
+
+The School Summary dataframe shows the top 5 preforming schools are Charter schools and the bottom 5 preforming schools are District Students
+
